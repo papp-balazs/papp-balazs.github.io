@@ -1,1 +1,1 @@
-# papp-balazs.github.io
+# List of my own projects
